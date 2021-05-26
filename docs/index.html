@@ -143,11 +143,15 @@ Error message and password prompt
 
 <li>$:/config/AutoSave</li>
 
+<li>$:/config/NewTiddler/Tags</li>
+
 <li>$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/encryption</li>
 
 <li>$:/config/RelinkOnRename</li>
 
 <li>$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/more-tiddler-actions</li>
+
+<li>$:/config/ViewToolbarButtons/Visibility/Downloader</li>
 
 <li>$:/core</li>
 
@@ -183,6 +187,8 @@ Error message and password prompt
 
 <li>$:/state/tab/sidebar--595412856</li>
 
+<li>$:/state/tabs/controlpanel/toolbars-1345989671</li>
+
 <li>$:/state/tree/$:/info/</li>
 
 <li>$:/status/RequireReloadDueToPluginChange</li>
@@ -200,6 +206,8 @@ Error message and password prompt
 <li>Ashen Warrior</li>
 
 <li>Astias Grab</li>
+
+<li>Download_Button</li>
 
 <li>Duncan</li>
 
@@ -246,6 +254,9 @@ Error message and password prompt
 <div created="20210526013145064" modified="20210526013145064" title="$:/config/AutoSave">
 <pre>no</pre>
 </div>
+<div created="20210526013708662" modified="20210526013708662" title="$:/config/NewTiddler/Tags">
+<pre>wip</pre>
+</div>
 <div created="20210525004011684" modified="20210525004023138" title="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/encryption">
 <pre>hide</pre>
 </div>
@@ -254,6 +265,9 @@ Error message and password prompt
 </div>
 <div created="20210526013136812" modified="20210526013136812" title="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/more-tiddler-actions">
 <pre>hide</pre>
+</div>
+<div created="20210526014124920" modified="20210526014146125" tags="wip" title="$:/config/ViewToolbarButtons/Visibility/Downloader">
+<pre>reveal</pre>
 </div>
 <div author="JeremyRuston" core-version="&gt;=5.0.0" dependents="" description="TiddlyWiki5 core" list="readme" name="Core" plugin-priority="0" plugin-type="plugin" title="$:/core" type="application/json" version="5.1.23">
 <pre>{
@@ -10153,20 +10167,23 @@ Error message and password prompt
 <div created="20210524172332273" modified="20210524172335045" title="$:/SiteTitle">
 <pre>Rise of Darkness</pre>
 </div>
-<div created="20210526013120327" modified="20210526013139740" title="$:/state/tab--1963855381">
-<pre>$:/themes/tiddlywiki/vanilla/themetweaks</pre>
+<div created="20210526013120327" modified="20210526014227618" title="$:/state/tab--1963855381">
+<pre>$:/core/ui/ControlPanel/StoryView</pre>
 </div>
-<div created="20210526012113894" modified="20210526013157366" title="$:/state/tab-1749438307">
+<div created="20210526012113894" modified="20210526014225805" title="$:/state/tab-1749438307">
 <pre>$:/core/ui/ControlPanel/Appearance</pre>
 </div>
 <div created="20210526012115570" modified="20210526013143496" title="$:/state/tab-2065006209">
 <pre>$:/core/ui/ControlPanel/Saving/General</pre>
 </div>
-<div created="20210524172616325" modified="20210525010615060" title="$:/state/tab/moresidebar-1850697562">
-<pre>$:/core/ui/MoreSideBar/Explorer</pre>
+<div created="20210524172616325" modified="20210526014205631" title="$:/state/tab/moresidebar-1850697562">
+<pre>$:/core/ui/MoreSideBar/Tags</pre>
 </div>
-<div created="20210524172610573" modified="20210525011222633" title="$:/state/tab/sidebar--595412856">
-<pre>$:/core/ui/SideBar/Open</pre>
+<div created="20210524172610573" modified="20210526014203579" title="$:/state/tab/sidebar--595412856">
+<pre>$:/core/ui/SideBar/More</pre>
+</div>
+<div created="20210526013648196" modified="20210526013648196" title="$:/state/tabs/controlpanel/toolbars-1345989671">
+<pre>$:/core/ui/ControlPanel/Toolbars/EditToolbar</pre>
 </div>
 <div created="20210525004820289" modified="20210525010620625" title="$:/state/tree/$:/info/">
 <pre>show</pre>
@@ -10174,7 +10191,7 @@ Error message and password prompt
 <div title="$:/status/RequireReloadDueToPluginChange">
 <pre>no</pre>
 </div>
-<div created="20210526012111789" list="$:/ControlPanel [[Rise of Darkness Wiki]]" modified="20210526012151072" title="$:/StoryList">
+<div created="20210526013437870" list="$:/config/ViewToolbarButtons/Visibility/Downloader Download_Button $:/ControlPanel [[Rise of Darkness Wiki]]" modified="20210526013437870" title="$:/StoryList">
 <pre></pre>
 </div>
 <div created="20210526013112471" modified="20210526013112471" title="$:/theme">
@@ -10289,8 +10306,8 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20210526013127222" modified="20210526013132636" title="$:/view">
-<pre>zoomin</pre>
+<div created="20210526013127222" modified="20210526014228682" title="$:/view">
+<pre>classic</pre>
 </div>
 <div created="20210524135912406" modified="20210525005136516" tags="Barbarian NPC [[NPC Class]] Wildling Locked" title="Ashen Warrior">
 <pre>Ashen Warrior sind Stammeskrieger der Wildlinge.&lt;br&gt;
@@ -10305,6 +10322,12 @@ Wildlinge sind bekannt für ihre Brutalität und physische Tüchtigkeit, doch di
 Wenn du die Asche über den Steinhaufen in den Schrein (eine Kuppel) südlich von Ostagar bringst, dann erscheint Astia und wird dir einen Wunsch erfüllen.&quot;
 
 Notiz und Asche bei einem toten Scout aus [[Max Scout Trupp|Max]] gefunden.</pre>
+</div>
+<div created="20210526013851489" modified="20210526014042590" tags="wip $:/tags/ViewToolbar" title="Download_Button">
+<pre>&lt;$button class=&quot;tc-btn-big-green&quot;&gt;
+&lt;$action-sendmessage $message=&quot;tm-download-file&quot; $param=&quot;$:/_mytemplate&quot; filename=&quot;output.html&quot;/&gt;
+Download Filtered {{$:/core/images/save-button}}
+&lt;/$button&gt;</pre>
 </div>
 <div created="20210524114721143" modified="20210525010345952" tags="NPC Warden Ally Verbündeter Locked" title="Duncan">
 <pre>Warden&lt;br&gt;
