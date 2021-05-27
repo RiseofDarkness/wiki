@@ -1,1 +1,2 @@
-0001 - png - charles_beauvilliers_character_portrait
+0001 - png - charlesbeauvilliers_character_portrait
+0002 - png - duncan_character_portrait
