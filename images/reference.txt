@@ -4,3 +4,4 @@
 0004 - png - morigan_portrait
 0005 - jpg - nicholashuxley_character_portrait
 0006 - png - tokki_character_portrait
+0007 - png - royalguard_portrait
