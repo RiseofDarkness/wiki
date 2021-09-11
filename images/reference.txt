@@ -2,3 +2,4 @@
 0002 - png - duncan_character_portrait
 0003 - jpg - radagast_portrait
 0004 - png - morigan_portrait
+0005 - jpg - nicholashuxley_character_portrait
