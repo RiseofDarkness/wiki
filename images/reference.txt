@@ -8,3 +8,5 @@
 0008 - jpg - blackguard_portrait
 0009 - jpg - rittersommer_portrait
 0010 - jpg - lordmortis_portrait
+0011 - jpg - richardmaccorn_portrait
+0012 - jpg - templercaptaingold_portrait
