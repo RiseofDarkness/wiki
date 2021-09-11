@@ -7,3 +7,4 @@
 0007 - png - royalguard_portrait
 0008 - jpg - blackguard_portrait
 0009 - jpg - rittersommer_portrait
+0010 - jpg - lordmortis_portrait
