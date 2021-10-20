@@ -13,3 +13,5 @@
 0013 - jpg - elfmessengerostagar_portrait
 0014 - jpg - jacefrost_portrait
 0015 - jpg - hurlock_armored
+0016 - jpg - alistar_shield
+0017 - jpg - eyeless_one
