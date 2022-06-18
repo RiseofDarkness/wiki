@@ -17,3 +17,6 @@
 0017 - jpg - eyeless_one
 0018 - jpeg - hornless_one
 0019 - png - maggie_summer
+0020 - jepg - elven_werewolf_red
+0021 - jpeg - elven_werewolf_blue
+0022 - jpg - genlock_blood_scribe
