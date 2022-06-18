@@ -16,3 +16,4 @@
 0016 - jpg - alistair_shield
 0017 - jpg - eyeless_one
 0018 - jpeg - hornless_one
+0019 - png - maggie_summer
