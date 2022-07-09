@@ -20,3 +20,7 @@
 0020 - jepg - elven_werewolf_red
 0021 - jpeg - elven_werewolf_blue
 0022 - jpg - genlock_blood_scribe
+0023 - jpeg - genlock_emissary
+0024 - jpeg - genlock_shrieker
+0025 - jpeg - mysterious general
+0026 - jpeg - garrod
