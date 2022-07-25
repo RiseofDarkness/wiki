@@ -24,3 +24,5 @@
 0024 - jpeg - genlock_shrieker
 0025 - jpeg - mysterious general
 0026 - jpeg - garrod
+0027 - jpeg - genlock_chestbearer
+0028 - jpeg - gimrid_calledor
